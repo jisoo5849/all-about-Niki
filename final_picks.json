@@ -1,0 +1,225 @@
+{
+ "date_dir": "main/2026-10-27/niki_compass",
+ "note": "chain: 맨 앞이 Z-Image Turbo 생성 원본, 그 뒤가 Qwen-Image-Edit-2511 편집 단계(앞 단계 결과를 입력으로 사용). 마지막 파일이 최종본. base_shot 이 있으면 그 컷의 프롬프트로 만든 원본에서 출발.",
+ "dest": {
+  "niki_1": "01_niki/niki_1_turnaround",
+  "niki_2": "01_niki/niki_2_keypose",
+  "niki_3": "01_niki/niki_3_expressions",
+  "niki_4": "01_niki/niki_4_forest_magic",
+  "niki_5": "01_niki/niki_5_sleeve_growth",
+  "putor_1": "02_putor/putor_1_turnaround",
+  "putor_2": "02_putor/putor_2_keypose",
+  "putor_3": "02_putor/putor_3_expressions",
+  "putor_4": "02_putor/putor_4_healing",
+  "putor_5": "02_putor/putor_5_props",
+  "quillins_1": "03_quillins/quillins_1_hooded_turnaround",
+  "quillins_2": "03_quillins/quillins_2_night_shore",
+  "quillins_3": "03_quillins/quillins_3_reveal_portrait",
+  "quillins_4": "03_quillins/quillins_4_seal",
+  "quillins_5": "03_quillins/quillins_5_glove",
+  "james_1": "04_james/james_1_turnaround",
+  "james_2": "04_james/james_2_keypose",
+  "james_3": "04_james/james_3_expressions",
+  "james_4": "04_james/james_4_greenhouse",
+  "james_5": "04_james/james_5_doorframe",
+  "beth_1": "05_beth/beth_1_turnaround",
+  "beth_2": "05_beth/beth_2_tea",
+  "beth_3": "05_beth/beth_3_expressions",
+  "beth_4": "05_beth/beth_4_greenhouse",
+  "beth_5": "05_beth/beth_5_protect",
+  "taoba_1": "06_taoba/taoba_1_turnaround",
+  "taoba_2": "06_taoba/taoba_2_keypose",
+  "taoba_3": "06_taoba/taoba_3_expressions",
+  "taoba_4": "06_taoba/taoba_4_greenhouse",
+  "taoba_5": "06_taoba/taoba_5_vines",
+  "ilia_1": "07_ilia/ilia_1_turnaround",
+  "ilia_2": "07_ilia/ilia_2_keypose",
+  "ilia_3": "07_ilia/ilia_3_expressions",
+  "ilia_4": "07_ilia/ilia_4_ribbon",
+  "ilia_5": "07_ilia/ilia_5_greenhouse",
+  "iloke_1": "08_iloke/iloke_1_turnaround",
+  "iloke_2": "08_iloke/iloke_2_handkerchief",
+  "iloke_3": "08_iloke/iloke_3_expressions",
+  "iloke_4": "08_iloke/iloke_4_umbrella",
+  "iloke_5": "08_iloke/iloke_5_pots",
+  "iluki_1": "09_iluki/iluki_1_turnaround",
+  "iluki_2": "09_iluki/iluki_2_keypose",
+  "iluki_3": "09_iluki/iluki_3_expressions",
+  "iluki_4": "09_iluki/iluki_4_toys",
+  "iluki_5": "09_iluki/iluki_5_scolded"
+ },
+ "picks": {
+  "niki_1": [
+   "01_niki/r3/niki_1_s13101_00001_.png",
+   "01_niki/r4_edit/niki_1_from-r3-s13101_e101_00001_.png"
+  ],
+  "niki_2": [
+   "01_niki/r3/niki_2_s14102_00001_.png",
+   "01_niki/r4_edit/niki_2_from-r3-s14102_e101_00001_.png"
+  ],
+  "niki_3": [
+   "01_niki/r2/niki_3_s12103_00001_.png",
+   "01_niki/r5_edit/niki_3_from-r2-s12103_e505_00001_.png",
+   "01_niki/r6_edit/niki_3_from-r5-e505_e808_00001_.png"
+  ],
+  "niki_4": [
+   "01_niki/r3/niki_4_s13104_00001_.png",
+   "01_niki/r4_edit/niki_4_from-r3-s13104_e101_00001_.png"
+  ],
+  "niki_5": [
+   "01_niki/r3/niki_5_s12155_00001_.png",
+   "01_niki/r4_edit/niki_5_from-r3-s12155_e202_00001_.png",
+   "01_niki/r6_edit/niki_5_from-r4-e202_e909_00001_.png"
+  ],
+  "putor_1": [
+   "02_putor/r2/putor_1_s12201_00001_.png"
+  ],
+  "putor_2": [
+   "02_putor/r3/putor_2_s14202_00001_.png",
+   "02_putor/edit/putor_2_from-r3-s14202_e111_00001_.png"
+  ],
+  "putor_3": [
+   "02_putor/r2/putor_3_s12203_00001_.png",
+   "02_putor/edit/putor_3_from-r2-s12203_e555_00001_.png"
+  ],
+  "putor_4": [
+   "02_putor/r3/putor_4_s13204_00001_.png",
+   "02_putor/edit/putor_4_from-r3-s13204_e111_00001_.png"
+  ],
+  "putor_5": [
+   "02_putor/r2/putor_5_s12205_00001_.png"
+  ],
+  "quillins_1": [
+   "03_quillins/r1/quillins_1_s12301_00001_.png"
+  ],
+  "quillins_2": [
+   "03_quillins/r1/quillins_2_s13302_00001_.png"
+  ],
+  "quillins_3": [
+   "03_quillins/r2/quillins_3_s12353_00001_.png",
+   "03_quillins/edit/quillins_3_from-r2-s12353_e222_00001_.png"
+  ],
+  "quillins_4": [
+   "03_quillins/r2/quillins_4_s13354_00001_.png",
+   "03_quillins/edit/quillins_4_from-r2-s13354_e222_00001_.png",
+   "03_quillins/edit/quillins_4_from-edit-e222_e333_00001_.png"
+  ],
+  "quillins_5": [
+   "03_quillins/r2/quillins_5_s13355_00001_.png",
+   "03_quillins/edit/quillins_5_from-r2-s13355_e222_00001_.png"
+  ],
+  "james_1": [
+   "04_james/r2/james_1_s14401_00001_.png",
+   "04_james/edit2/james_1_from-r2-s14401_e282_00001_.png"
+  ],
+  "james_2": [
+   "04_james/r2/james_2_s13402_00001_.png",
+   "04_james/edit2/james_2_from-r2-s13402_e171_00001_.png"
+  ],
+  "james_3": {
+   "chain": [
+    "04_james/r2/james_1_s14401_00001_.png",
+    "04_james/edit2/james_1_from-r2-s14401_e282_00001_.png",
+    "04_james/edit2/james_3_from-james1-edit2-e282_e494_00001_.png"
+   ],
+   "base_shot": "james_1"
+  },
+  "james_4": [
+   "04_james/r2/james_4_s12404_00001_.png",
+   "04_james/edit2/james_4_from-r2-s12404_e282_00001_.png"
+  ],
+  "james_5": [
+   "04_james/r2/james_5_s12405_00001_.png",
+   "04_james/edit2/james_5_from-r2-s12405_e282_00001_.png"
+  ],
+  "beth_1": [
+   "05_beth/r1/beth_1_s13501_00001_.png"
+  ],
+  "beth_2": [
+   "05_beth/r1/beth_2_s13502_00001_.png"
+  ],
+  "beth_3": [
+   "05_beth/r1/beth_3_s13503_00001_.png"
+  ],
+  "beth_4": [
+   "05_beth/r1/beth_4_s12504_00001_.png"
+  ],
+  "beth_5": [
+   "05_beth/r1/beth_5_s12505_00001_.png"
+  ],
+  "taoba_1": [
+   "06_taoba/r1/taoba_1_s12601_00001_.png"
+  ],
+  "taoba_2": [
+   "06_taoba/r1/taoba_2_s12602_00001_.png"
+  ],
+  "taoba_3": [
+   "06_taoba/r1/taoba_3_s12603_00001_.png"
+  ],
+  "taoba_4": [
+   "06_taoba/r1/taoba_4_s12604_00001_.png"
+  ],
+  "taoba_5": [
+   "06_taoba/r1/taoba_5_s12605_00001_.png"
+  ],
+  "ilia_1": [
+   "07_ilia/r1/ilia_1_s12701_00001_.png",
+   "07_ilia/edit/ilia_1_from-r1-s12701_e131_00001_.png"
+  ],
+  "ilia_2": [
+   "07_ilia/r1/ilia_2_s12702_00001_.png",
+   "07_ilia/edit2/ilia_2_from-r1-s12702_e353_00001_.png"
+  ],
+  "ilia_3": [
+   "07_ilia/r1/ilia_3_s13703_00001_.png",
+   "07_ilia/edit/ilia_3_from-r1-s13703_e131_00001_.png"
+  ],
+  "ilia_4": [
+   "07_ilia/r1/ilia_4_s13704_00001_.png",
+   "07_ilia/edit/ilia_4_from-r1-s13704_e131_00001_.png"
+  ],
+  "ilia_5": [
+   "07_ilia/r1/ilia_5_s12705_00001_.png",
+   "07_ilia/edit/ilia_5_from-r1-s12705_e131_00001_.png"
+  ],
+  "iloke_1": [
+   "08_iloke/r1/iloke_1_s13801_00001_.png"
+  ],
+  "iloke_2": [
+   "08_iloke/r1/iloke_2_s12802_00001_.png"
+  ],
+  "iloke_3": [
+   "08_iloke/r1/iloke_3_s13803_00001_.png",
+   "08_iloke/edit/iloke_3_from-r1-s13803_e141_00001_.png"
+  ],
+  "iloke_4": [
+   "08_iloke/r1/iloke_4_s13804_00001_.png",
+   "08_iloke/edit/iloke_4_from-r1-s13804_e141_00001_.png"
+  ],
+  "iloke_5": [
+   "08_iloke/r1/iloke_5_s13805_00001_.png",
+   "08_iloke/edit/iloke_5_from-r1-s13805_e141_00001_.png"
+  ],
+  "iluki_1": [
+   "09_iluki/r1/iluki_1_s12901_00001_.png",
+   "09_iluki/edit/iluki_1_from-r1-s12901_e151_00001_.png",
+   "09_iluki/edit2/iluki_1_from-edit-e151_e484_00001_.png"
+  ],
+  "iluki_2": [
+   "09_iluki/r1/iluki_2_s12902_00001_.png",
+   "09_iluki/edit/iluki_2_from-r1-s12902_e151_00001_.png",
+   "09_iluki/edit2/iluki_2_from-edit-e151_e373_00001_.png"
+  ],
+  "iluki_3": [
+   "09_iluki/r1/iluki_3_s12903_00001_.png"
+  ],
+  "iluki_4": [
+   "09_iluki/r1/iluki_4_s12904_00001_.png",
+   "09_iluki/edit/iluki_4_from-r1-s12904_e151_00001_.png"
+  ],
+  "iluki_5": [
+   "09_iluki/r1/iluki_5_s12905_00001_.png",
+   "09_iluki/edit/iluki_5_from-r1-s12905_e151_00001_.png"
+  ]
+ }
+}
