@@ -1,0 +1,277 @@
+[
+ {
+  "zip": "final/01_niki/niki_1_turnaround.png",
+  "src": "main/2026-10-27/niki_compass_v2/01_niki/e1/niki_1_from-r3_e101_00001_.png",
+  "shot": "niki_1"
+ },
+ {
+  "zip": "sources/01_niki/niki_1_s12101_00001_.png",
+  "src": "main/2026-10-27/niki_compass_v2/01_niki/r3/niki_1_s12101_00001_.png",
+  "shot": "niki_1"
+ },
+ {
+  "zip": "final/01_niki/niki_2_keypose.png",
+  "src": "main/2026-10-27/niki_compass_v2/01_niki/e1/niki_2_from-r3_e101_00001_.png",
+  "shot": "niki_2"
+ },
+ {
+  "zip": "sources/01_niki/niki_2_s12102_00001_.png",
+  "src": "main/2026-10-27/niki_compass_v2/01_niki/r3/niki_2_s12102_00001_.png",
+  "shot": "niki_2"
+ },
+ {
+  "zip": "final/01_niki/niki_3_expressions.png",
+  "src": "main/2026-10-27/niki_compass_v2/01_niki/r4/niki_3_s13103_00001_.png",
+  "shot": "niki_3"
+ },
+ {
+  "zip": "final/01_niki/niki_4_forest_magic.png",
+  "src": "main/2026-10-27/niki_compass_v2/01_niki/e1/niki_4_from-r3_e101_00001_.png",
+  "shot": "niki_4"
+ },
+ {
+  "zip": "sources/01_niki/niki_4_s12104_00001_.png",
+  "src": "main/2026-10-27/niki_compass_v2/01_niki/r3/niki_4_s12104_00001_.png",
+  "shot": "niki_4"
+ },
+ {
+  "zip": "final/01_niki/niki_5_sleeve_growth.png",
+  "src": "main/2026-10-27/niki_compass_v2/01_niki/e1/niki_5_from-r3_e101_00001_.png",
+  "shot": "niki_5"
+ },
+ {
+  "zip": "sources/01_niki/niki_5_s12155_00001_.png",
+  "src": "main/2026-10-27/niki_compass_v2/01_niki/r3/niki_5_s12155_00001_.png",
+  "shot": "niki_5"
+ },
+ {
+  "zip": "final/02_putor/putor_1_turnaround.png",
+  "src": "main/2026-10-27/niki_compass_v2/02_putor/r3/putor_1_s12201_00001_.png",
+  "shot": "putor_1"
+ },
+ {
+  "zip": "final/02_putor/putor_2_keypose.png",
+  "src": "main/2026-10-27/niki_compass_v2/02_putor/r3/putor_2_s12202_00001_.png",
+  "shot": "putor_2"
+ },
+ {
+  "zip": "final/02_putor/putor_3_expressions.png",
+  "src": "main/2026-10-27/niki_compass_v2/02_putor/r3/putor_3_s12203_00001_.png",
+  "shot": "putor_3"
+ },
+ {
+  "zip": "final/02_putor/putor_4_healing.png",
+  "src": "main/2026-10-27/niki_compass_v2/02_putor/r3/putor_4_s12204_00001_.png",
+  "shot": "putor_4"
+ },
+ {
+  "zip": "final/02_putor/putor_5_props.png",
+  "src": "main/2026-10-27/niki_compass_v2/02_putor/r3/putor_5_s12205_00001_.png",
+  "shot": "putor_5"
+ },
+ {
+  "zip": "final/03_quillins/quillins_1_hooded_turnaround.png",
+  "src": "main/2026-10-27/niki_compass_v2/03_quillins/r3/quillins_1_s12301_00001_.png",
+  "shot": "quillins_1"
+ },
+ {
+  "zip": "final/03_quillins/quillins_2_night_shore.png",
+  "src": "main/2026-10-27/niki_compass_v2/03_quillins/r3/quillins_2_s12302_00001_.png",
+  "shot": "quillins_2"
+ },
+ {
+  "zip": "final/03_quillins/quillins_3_reveal_portrait.png",
+  "src": "main/2026-10-27/niki_compass_v2/03_quillins/e1/quillins_3_from-r3_e101_00001_.png",
+  "shot": "quillins_3"
+ },
+ {
+  "zip": "sources/03_quillins/quillins_3_s12353_00001_.png",
+  "src": "main/2026-10-27/niki_compass_v2/03_quillins/r3/quillins_3_s12353_00001_.png",
+  "shot": "quillins_3"
+ },
+ {
+  "zip": "final/03_quillins/quillins_4_seal.png",
+  "src": "main/2026-10-27/niki_compass_v2/03_quillins/r3/quillins_4_s12354_00001_.png",
+  "shot": "quillins_4"
+ },
+ {
+  "zip": "final/03_quillins/quillins_5_glove.png",
+  "src": "main/2026-10-27/niki_compass_v2/03_quillins/e1/quillins_5_from-r1_e101_00001_.png",
+  "shot": "quillins_5"
+ },
+ {
+  "zip": "sources/03_quillins/quillins_5_s12355_00001_.png",
+  "src": "main/2026-10-27/niki_compass_v2/03_quillins/r1/quillins_5_s12355_00001_.png",
+  "shot": "quillins_5"
+ },
+ {
+  "zip": "final/04_james/james_1_turnaround.png",
+  "src": "main/2026-10-27/niki_compass_v2/04_james/r3/james_1_s12401_00001_.png",
+  "shot": "james_1"
+ },
+ {
+  "zip": "final/04_james/james_2_keypose.png",
+  "src": "main/2026-10-27/niki_compass_v2/04_james/r3/james_2_s12402_00001_.png",
+  "shot": "james_2"
+ },
+ {
+  "zip": "final/04_james/james_3_expressions.png",
+  "src": "main/2026-10-27/niki_compass_v2/04_james/r3/james_3_s12403_00001_.png",
+  "shot": "james_3"
+ },
+ {
+  "zip": "final/04_james/james_4_greenhouse.png",
+  "src": "main/2026-10-27/niki_compass_v2/04_james/r3/james_4_s12404_00001_.png",
+  "shot": "james_4"
+ },
+ {
+  "zip": "final/04_james/james_5_doorframe.png",
+  "src": "main/2026-10-27/niki_compass_v2/04_james/r3/james_5_s12405_00001_.png",
+  "shot": "james_5"
+ },
+ {
+  "zip": "final/05_beth/beth_1_turnaround.png",
+  "src": "main/2026-10-27/niki_compass_v2/05_beth/r3/beth_1_s12501_00001_.png",
+  "shot": "beth_1"
+ },
+ {
+  "zip": "final/05_beth/beth_2_tea.png",
+  "src": "main/2026-10-27/niki_compass_v2/05_beth/r3/beth_2_s12502_00001_.png",
+  "shot": "beth_2"
+ },
+ {
+  "zip": "final/05_beth/beth_3_expressions.png",
+  "src": "main/2026-10-27/niki_compass_v2/05_beth/r3/beth_3_s12503_00001_.png",
+  "shot": "beth_3"
+ },
+ {
+  "zip": "final/05_beth/beth_4_greenhouse.png",
+  "src": "main/2026-10-27/niki_compass_v2/05_beth/r3/beth_4_s12504_00001_.png",
+  "shot": "beth_4"
+ },
+ {
+  "zip": "final/05_beth/beth_5_protect.png",
+  "src": "main/2026-10-27/niki_compass_v2/05_beth/r3/beth_5_s12505_00001_.png",
+  "shot": "beth_5"
+ },
+ {
+  "zip": "final/06_taoba/taoba_1_turnaround.png",
+  "src": "main/2026-10-27/niki_compass_v2/06_taoba/e1/taoba_1_from-r3_e101_00001_.png",
+  "shot": "taoba_1"
+ },
+ {
+  "zip": "sources/06_taoba/taoba_1_s12601_00001_.png",
+  "src": "main/2026-10-27/niki_compass_v2/06_taoba/r3/taoba_1_s12601_00001_.png",
+  "shot": "taoba_1"
+ },
+ {
+  "zip": "final/06_taoba/taoba_2_keypose.png",
+  "src": "main/2026-10-27/niki_compass_v2/06_taoba/r3/taoba_2_s12602_00001_.png",
+  "shot": "taoba_2"
+ },
+ {
+  "zip": "final/06_taoba/taoba_3_expressions.png",
+  "src": "main/2026-10-27/niki_compass_v2/06_taoba/e1/taoba_3_from-r3_e101_00001_.png",
+  "shot": "taoba_3"
+ },
+ {
+  "zip": "sources/06_taoba/taoba_3_s12603_00001_.png",
+  "src": "main/2026-10-27/niki_compass_v2/06_taoba/r3/taoba_3_s12603_00001_.png",
+  "shot": "taoba_3"
+ },
+ {
+  "zip": "final/06_taoba/taoba_4_greenhouse.png",
+  "src": "main/2026-10-27/niki_compass_v2/06_taoba/e1/taoba_4_from-r3_e101_00001_.png",
+  "shot": "taoba_4"
+ },
+ {
+  "zip": "sources/06_taoba/taoba_4_s12604_00001_.png",
+  "src": "main/2026-10-27/niki_compass_v2/06_taoba/r3/taoba_4_s12604_00001_.png",
+  "shot": "taoba_4"
+ },
+ {
+  "zip": "final/06_taoba/taoba_5_vines.png",
+  "src": "main/2026-10-27/niki_compass_v2/06_taoba/e1/taoba_5_from-r3_e101_00001_.png",
+  "shot": "taoba_5"
+ },
+ {
+  "zip": "sources/06_taoba/taoba_5_s12605_00001_.png",
+  "src": "main/2026-10-27/niki_compass_v2/06_taoba/r3/taoba_5_s12605_00001_.png",
+  "shot": "taoba_5"
+ },
+ {
+  "zip": "final/07_ilia/ilia_1_turnaround.png",
+  "src": "main/2026-10-27/niki_compass_v2/07_ilia/r3/ilia_1_s12701_00001_.png",
+  "shot": "ilia_1"
+ },
+ {
+  "zip": "final/07_ilia/ilia_2_keypose.png",
+  "src": "main/2026-10-27/niki_compass_v2/07_ilia/r3/ilia_2_s12702_00001_.png",
+  "shot": "ilia_2"
+ },
+ {
+  "zip": "final/07_ilia/ilia_3_expressions.png",
+  "src": "main/2026-10-27/niki_compass_v2/07_ilia/r3/ilia_3_s12703_00001_.png",
+  "shot": "ilia_3"
+ },
+ {
+  "zip": "final/07_ilia/ilia_4_ribbon.png",
+  "src": "main/2026-10-27/niki_compass_v2/07_ilia/r3/ilia_4_s12704_00001_.png",
+  "shot": "ilia_4"
+ },
+ {
+  "zip": "final/07_ilia/ilia_5_greenhouse.png",
+  "src": "main/2026-10-27/niki_compass_v2/07_ilia/r3/ilia_5_s12705_00001_.png",
+  "shot": "ilia_5"
+ },
+ {
+  "zip": "final/08_iloke/iloke_1_turnaround.png",
+  "src": "main/2026-10-27/niki_compass_v2/08_iloke/r3/iloke_1_s12801_00001_.png",
+  "shot": "iloke_1"
+ },
+ {
+  "zip": "final/08_iloke/iloke_2_handkerchief.png",
+  "src": "main/2026-10-27/niki_compass_v2/08_iloke/r3/iloke_2_s12802_00001_.png",
+  "shot": "iloke_2"
+ },
+ {
+  "zip": "final/08_iloke/iloke_3_expressions.png",
+  "src": "main/2026-10-27/niki_compass_v2/08_iloke/r3/iloke_3_s12803_00001_.png",
+  "shot": "iloke_3"
+ },
+ {
+  "zip": "final/08_iloke/iloke_4_umbrella.png",
+  "src": "main/2026-10-27/niki_compass_v2/08_iloke/r3/iloke_4_s12804_00001_.png",
+  "shot": "iloke_4"
+ },
+ {
+  "zip": "final/08_iloke/iloke_5_pots.png",
+  "src": "main/2026-10-27/niki_compass_v2/08_iloke/r3/iloke_5_s12805_00001_.png",
+  "shot": "iloke_5"
+ },
+ {
+  "zip": "final/09_iluki/iluki_1_turnaround.png",
+  "src": "main/2026-10-27/niki_compass_v2/09_iluki/r3/iluki_1_s12901_00001_.png",
+  "shot": "iluki_1"
+ },
+ {
+  "zip": "final/09_iluki/iluki_2_keypose.png",
+  "src": "main/2026-10-27/niki_compass_v2/09_iluki/r3/iluki_2_s12902_00001_.png",
+  "shot": "iluki_2"
+ },
+ {
+  "zip": "final/09_iluki/iluki_3_expressions.png",
+  "src": "main/2026-10-27/niki_compass_v2/09_iluki/r3/iluki_3_s12903_00001_.png",
+  "shot": "iluki_3"
+ },
+ {
+  "zip": "final/09_iluki/iluki_4_toys.png",
+  "src": "main/2026-10-27/niki_compass_v2/09_iluki/r3/iluki_4_s12904_00001_.png",
+  "shot": "iluki_4"
+ },
+ {
+  "zip": "final/09_iluki/iluki_5_scolded.png",
+  "src": "main/2026-10-27/niki_compass_v2/09_iluki/r3/iluki_5_s12905_00001_.png",
+  "shot": "iluki_5"
+ }
+]
