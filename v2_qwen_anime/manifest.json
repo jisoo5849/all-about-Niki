@@ -106,26 +106,51 @@
  },
  {
   "zip": "final/04_james/james_1_turnaround.png",
+  "src": "main/2026-10-29/niki_compass_v2/04_james/e2/james_1_from-r3_e202_00001_.png",
+  "shot": "james_1"
+ },
+ {
+  "zip": "sources/04_james/james_1_s12401_00001_.png",
   "src": "main/2026-10-27/niki_compass_v2/04_james/r3/james_1_s12401_00001_.png",
   "shot": "james_1"
  },
  {
   "zip": "final/04_james/james_2_keypose.png",
+  "src": "main/2026-10-29/niki_compass_v2/04_james/e2/james_2_from-r3_e101_00001_.png",
+  "shot": "james_2"
+ },
+ {
+  "zip": "sources/04_james/james_2_s12402_00001_.png",
   "src": "main/2026-10-27/niki_compass_v2/04_james/r3/james_2_s12402_00001_.png",
   "shot": "james_2"
  },
  {
   "zip": "final/04_james/james_3_expressions.png",
+  "src": "main/2026-10-29/niki_compass_v2/04_james/e2/james_3_from-r3_e202_00001_.png",
+  "shot": "james_3"
+ },
+ {
+  "zip": "sources/04_james/james_3_s12403_00001_.png",
   "src": "main/2026-10-27/niki_compass_v2/04_james/r3/james_3_s12403_00001_.png",
   "shot": "james_3"
  },
  {
   "zip": "final/04_james/james_4_greenhouse.png",
+  "src": "main/2026-10-29/niki_compass_v2/04_james/e2/james_4_from-r3_e202_00001_.png",
+  "shot": "james_4"
+ },
+ {
+  "zip": "sources/04_james/james_4_s12404_00001_.png",
   "src": "main/2026-10-27/niki_compass_v2/04_james/r3/james_4_s12404_00001_.png",
   "shot": "james_4"
  },
  {
   "zip": "final/04_james/james_5_doorframe.png",
+  "src": "main/2026-10-29/niki_compass_v2/04_james/e2/james_5_from-r3_e101_00001_.png",
+  "shot": "james_5"
+ },
+ {
+  "zip": "sources/04_james/james_5_s12405_00001_.png",
   "src": "main/2026-10-27/niki_compass_v2/04_james/r3/james_5_s12405_00001_.png",
   "shot": "james_5"
  },
