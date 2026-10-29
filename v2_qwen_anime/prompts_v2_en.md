@@ -447,6 +447,12 @@ Character model sheet, three identical figures of James arranged side by side, f
 
 - 부정 프롬프트 추가: `semi-realistic, realistic face, realistic skin, skin pores, detailed wrinkles, wrinkle shading, digital painting, concept art, painterly, western cartoon, caricature, 3d cartoon, hyperdetailed, elderly, old man, grandfather, deep wrinkles, weathered skin, sagging skin, gray hair, white hair`
 
+**편집 지시 (시드 202)**
+
+```
+Make the man look about forty years old instead of a man in his twenties in all three views: a slightly longer adult face with a firmer jaw and subtle laugh lines at the corners of his eyes. Keep his facial expression exactly the same, with no heavy wrinkles and no tired look. Keep his messy dark brown hair with the three stray strands, his clothes, pose, tall lanky body, colors, background and anime style exactly the same.
+```
+
 ### james_2 · `final/04_james/james_2_keypose.png`
 
 - 생성: 시드 12402, 1056x1584, 원본 `main/2026-10-27/niki_compass_v2/04_james/r3/james_2_s12402_00001_.png`
@@ -470,6 +476,12 @@ Full-body character key art of James, a gentle father in his early forties, crou
 ```
 
 - 부정 프롬프트 추가: `semi-realistic, realistic face, realistic skin, skin pores, detailed wrinkles, wrinkle shading, digital painting, concept art, painterly, western cartoon, caricature, 3d cartoon, hyperdetailed, elderly, old man, grandfather, deep wrinkles, weathered skin, sagging skin, gray hair, white hair`
+
+**편집 지시 (시드 101)**
+
+```
+Make the man look about forty years old instead of a man in his twenties: a slightly longer adult face with a firmer jaw and subtle laugh lines at the corners of his eyes. Keep his facial expression exactly the same, with no heavy wrinkles and no tired look. Keep his messy dark brown hair with the three stray strands, his clothes, pose, tall lanky body, colors, background and anime style exactly the same.
+```
 
 ### james_3 · `final/04_james/james_3_expressions.png`
 
@@ -495,6 +507,12 @@ Expression sheet, six head-and-shoulders portraits of James in a two-row three-c
 
 - 부정 프롬프트 추가: `semi-realistic, realistic face, realistic skin, skin pores, detailed wrinkles, wrinkle shading, digital painting, concept art, painterly, western cartoon, caricature, 3d cartoon, hyperdetailed, elderly, old man, grandfather, deep wrinkles, weathered skin, sagging skin, gray hair, white hair`
 
+**편집 지시 (시드 202)**
+
+```
+Make the man look about forty years old instead of a man in his twenties in all six portraits: a slightly longer adult face with a firmer jaw and subtle laugh lines at the corners of his eyes. Keep his facial expression in each portrait exactly the same, with no heavy wrinkles and no tired look. Keep his messy dark brown hair with the three stray strands, his clothes, pose, tall lanky body, colors, background and anime style exactly the same.
+```
+
 ### james_4 · `final/04_james/james_4_greenhouse.png`
 
 - 생성: 시드 12404, 1584x1056, 원본 `main/2026-10-27/niki_compass_v2/04_james/r3/james_4_s12404_00001_.png`
@@ -519,6 +537,12 @@ James, a gentle father in his early forties, youthful handsome adult face with s
 
 - 부정 프롬프트 추가: `semi-realistic, realistic face, realistic skin, skin pores, detailed wrinkles, wrinkle shading, digital painting, concept art, painterly, western cartoon, caricature, 3d cartoon, hyperdetailed, elderly, old man, grandfather, deep wrinkles, weathered skin, sagging skin, gray hair, white hair`
 
+**편집 지시 (시드 202)**
+
+```
+Make the man look about forty years old instead of a man in his twenties: a slightly longer adult face with a firmer jaw and subtle laugh lines at the corners of his eyes. Keep his facial expression exactly the same, with no heavy wrinkles and no tired look. Keep his messy dark brown hair with the three stray strands, his clothes, pose, tall lanky body, colors, background and anime style exactly the same.
+```
+
 ### james_5 · `final/04_james/james_5_doorframe.png`
 
 - 생성: 시드 12405, 1056x1584, 원본 `main/2026-10-27/niki_compass_v2/04_james/r3/james_5_s12405_00001_.png`
@@ -542,6 +566,12 @@ James, a gentle father in his early forties, a youthful handsome adult face with
 ```
 
 - 부정 프롬프트 추가: `semi-realistic, realistic face, realistic skin, skin pores, detailed wrinkles, wrinkle shading, digital painting, concept art, painterly, western cartoon, caricature, 3d cartoon, hyperdetailed, elderly, old man, grandfather, deep wrinkles, weathered skin, sagging skin, gray hair, white hair`
+
+**편집 지시 (시드 101)**
+
+```
+Make the man look about forty years old instead of a man in his twenties: a slightly longer adult face with a firmer jaw and subtle laugh lines at the corners of his eyes. Keep his facial expression exactly the same, with no heavy wrinkles and no tired look. Keep his messy dark brown hair with the three stray strands, his clothes, pose, tall lanky body, colors, background and anime style exactly the same.
+```
 
 ## 05_beth
 
